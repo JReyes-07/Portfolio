@@ -1,7 +1,7 @@
 # Data_Analytics_Portfolio
 My data analytics portfolio projects.
 
-##Spreadsheet Data Analysis
+## Spreadsheet Data Analysis
 
 [Link to project](https://docs.google.com/spreadsheets/d/1v7f5oSjh9idMZZ36Ri-uiTi6aXKewqAXvOJB2kKXc74/edit?usp=sharing)
 
