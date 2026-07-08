@@ -13,3 +13,11 @@ This project analyzes the factors contributing to the Superstore’s high rate o
 [Link to project](https://docs.google.com/spreadsheets/d/1v7f5oSjh9idMZZ36Ri-uiTi6aXKewqAXvOJB2kKXc74/edit?usp=sharing)
 
 Analyze Airbnb data for the Manhattan vacation rental market to identify the best neighborhoods and property sizes (number of bedrooms) for investment, and determine how much revenue those listings generated to make investment recommendations.
+
+## Tables
+
+| Left columns  | Right columns |
+| ------------- |:-------------:|
+| left foo      | right foo     |
+| left bar      | right bar     |
+| left baz      | right baz     |
